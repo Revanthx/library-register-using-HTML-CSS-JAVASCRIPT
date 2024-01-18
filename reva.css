@@ -1,0 +1,93 @@
+
+body{
+    background-image: url('https://cdn.wallpapersafari.com/88/12/yKRu67.jpg');
+    background-color: #000000;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    font-family:Serif;
+}
+
+.a {
+    margin-top: 10px;
+    font-size: 24px;
+    color: #f7f5f5;
+}
+
+#save-user {
+    margin-bottom: 20px;
+}
+#save-user-wrapper {
+    text-align: right;
+    margin-top: 0px;
+}
+#Register-Here{
+    margin-top: 20px;
+}
+h2{
+   text-align: center;
+}
+.form-group label {
+    font-weight: bold;
+}
+.form-group{
+    padding: 10px;
+}
+.material-icons {
+    cursor: pointer;
+}
+.modal-header {
+    color: #fff;
+}
+.modal-title {
+    font-weight: bold;
+}
+
+.modal-footer {
+    justify-content: space-between;
+}
+
+.modal-footer .btn-secondary {
+    background-color: #c74545;
+    color: #ffffff;
+}
+.modal-footer .btn-primary {
+    background-color: #007bff;
+    color: #fff;
+}
+
+h3{
+    text-align: center;
+    color: #f7f5f5;
+}
+
+hr{
+    color: #ccc;
+}
+
+#carouselExampleInterval{
+    margin-top: 10px;
+}
+h5{
+    background-color: #333;
+}
+.are{
+    background-color:#333 ;
+}
+.where{
+    text-align: justify;
+    margin-top: 10px;
+    color:white ;
+}
+.card-text{
+    text-align: center;
+}
+.modal-content{
+    background-image: url('https://cdn.wallpapersafari.com/88/12/yKRu67.jpg');
+    background-blend-mode:multiply;
+    background-position:center;
+    background-size: cover;
+    
+   color: #f7f5f5;
+}
